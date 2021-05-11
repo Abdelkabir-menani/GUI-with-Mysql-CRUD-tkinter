@@ -1,6 +1,6 @@
 # GUI with Mysql CRUD tkinter:
 
-## Outils:
+## 1-Outils:
 
 ### MYSQL:
 
