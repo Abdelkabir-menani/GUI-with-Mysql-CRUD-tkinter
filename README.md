@@ -49,7 +49,7 @@ View of the branch manager page
 
 #### The insert button:
 
-On the The student manager page
+We insert a student to the table etudiants by adding his info (id,fname,lname,age,branch). The branch is selected from the list of the branches existed on the table filières of the database we created.
 
 ![insert_student.png](https://github.com/Abdelkabir-menani/GUI-with-Mysql-CRUD-tkinter/blob/main/Images/insert_student.png)
 
@@ -58,6 +58,8 @@ And on the The branch manager page
 ![insert_branch.png](https://github.com/Abdelkabir-menani/GUI-with-Mysql-CRUD-tkinter/blob/main/Images/insert_branch.png)
 
 #### The delete button:
+
+The delete button works by typing the id of the student or the branch we want to delete.
 
 On the The student manager page
 
@@ -69,7 +71,9 @@ And on the The branch manager page
 
 #### The update button:
 
-On the The student manager page
+The update button works by adding the info of the id of the student we want to update his info
+
+On the The student manager page, the update looks like this
 
 ![update_student.png](https://github.com/Abdelkabir-menani/GUI-with-Mysql-CRUD-tkinter/blob/main/Images/update_student.png)
 
@@ -78,6 +82,8 @@ And on the The branch manager page
 ![update_branch.png](https://github.com/Abdelkabir-menani/GUI-with-Mysql-CRUD-tkinter/blob/main/Images/update_branch.png)
 
 #### The get button:
+
+The get button allows us to find all the info of a student or a branch displayed on the screen
 
 On the The student manager page
 ![get_student.png](https://github.com/Abdelkabir-menani/GUI-with-Mysql-CRUD-tkinter/blob/main/Images/get_student.png)
