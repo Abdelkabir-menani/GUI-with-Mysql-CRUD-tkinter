@@ -86,9 +86,11 @@ And on the The branch manager page
 The get button allows us to find all the info of a student or a branch displayed on the screen
 
 On the The student manager page
+
 ![get_student.png](https://github.com/Abdelkabir-menani/GUI-with-Mysql-CRUD-tkinter/blob/main/Images/get_student.png)
 
 And on the The branch manager page
+
 ![get_branch.png](https://github.com/Abdelkabir-menani/GUI-with-Mysql-CRUD-tkinter/blob/main/Images/get_branch.png)
 
 
