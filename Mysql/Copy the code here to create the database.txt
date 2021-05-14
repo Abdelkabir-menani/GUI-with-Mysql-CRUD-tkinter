@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS Etudiants(
+                                ID_Etudiant int NOT NULL,
+                                Prénom varchar(255),
+                                Nom varchar(255),
+                                Age int NOT NULL,
+                                Nom_Filière varchar(255),
+                                PRIMARY KEY (ID_Etudiant));
+CREATE TABLE IF NOT EXISTS Filières(
+                            ID_Filière int NOT NULL,
+                            Nom_filière varchar(255),
+                            PRIMARY KEY (ID_Filière));
